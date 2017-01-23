@@ -1,0 +1,47 @@
+
+#signInForm {
+	display: block;
+	margin: 50px auto;
+	width: 300px;
+}
+
+#mainContent {
+	width: 80%;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+
+#mainContent label {
+	margin-top: 20px;
+}
+
+#mainContent img {
+	width: 100%;
+}
+
+.content {
+	float: left;
+	width: 40%;
+	padding-left: 20px;
+}
+
+#leftContent {
+	border-right: 1px solid;
+	padding-right: 20px;
+}
+
+.buttons {
+	margin-top: 20px;
+	float: right;
+}
+
+#exampleNumber {
+	text-align: center;
+	width: 80%;
+	margin-bottom: 30px;
+}
+
+
+#exampleNumber input {
+	width: 80px;
+}
